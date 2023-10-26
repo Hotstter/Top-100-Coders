@@ -12,9 +12,9 @@ Welcome to Kerala Top 100 Coders, the highlight of Huddle Global 2023! This even
 
 ---
 
-# How to Participate
+# How to Participate(read the following)
 
-## Step 1:
+## Step 1: 
 
 <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83">
 
